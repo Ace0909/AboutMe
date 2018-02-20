@@ -37,7 +37,7 @@
 *JQuery -  https://ace0909.github.io/Ace_JQuery_Mobile
   </br>1.利用JQuery Mobile 框架設計行動裝置
   </br>2.使用JQuery 進行物件控制及效果
-   
+<hr>
 *Googlemap Javascript API - 
    </br>1.利用Googlemap Javascript API 取得兩地距離
    </br>2.使用JQuery 進行進行物件控制及效果
