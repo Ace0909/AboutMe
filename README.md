@@ -3,6 +3,7 @@
  - Education： 淡江大學-資訊工程學系
  - Location： New Taipei
  - E-Mail： sky09250317@gmail.com
+ - Phone : 0978621808
  - Personal Website： 
 
 <hr>
